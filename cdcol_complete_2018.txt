@@ -1,0 +1,696 @@
+001 White
+002 Silver ey
+004 Steel ey
+009 Black
+015 Olive yellow
+025 Green ochre
+030 Orange
+034 Yellow ochre
+036 Raw Sienna
+037 Brown ochre
+039 Olive brown
+041 Apricot
+046 Cassel earth
+061 Permanent red
+065 Russet
+069 Burnt Sienna
+070 Scarlet
+077 Burnt ochre
+083 Ulamarine pink
+093 Violet ey
+095 Light auberne
+112 Manganese violet
+120 Violet
+129 Violet brown
+159 Prussian blue
+161 Light blue
+162 Phthalocyanine blue
+171 Turquoise blue
+180 Malachite een
+181 Light malachite een
+182 Cobalt een
+185 Ice blue
+214 Beryl een
+220 Grass een
+225 Moss een
+240 Lemon yellow
+242 Primerose
+350 Purplish red
+407 Sepia
+470 Spring een
+495 Slate ey
+504 Payne’s ey 30%
+507 Payne’s ey 60%
+508 Payne’s ey
+548 Raw umber
+571 Anthraquinoid pink
+585 Perylene brown
+589 Crimson alizarin (hue)
+599 Crimson auberne
+630 Ulamarine violet
+660 Middle cobalt blue (hue)
+661 Light cobalt blue
+662 Genuine cobalt blue
+729 Dark english een
+732 Olive brown 10%
+736 Olive brown 50%
+739 Dark sap een
+755 Grey blue
+801 Buff tanium
+802 French ey 10%
+803 French ey 30%
+808 French ey
+810 Bismuth yellow
+820 Golden bismuth yellow
+821 Naples ochre
+832 Brown ochre 10%
+836 Brown ochre 50%
+842 Raw umber 10%
+846 Raw umber 50%
+850 Cornelian
+862 Burnt Sienna 10%
+866 Burnt Sienna 50%
+872 Burnt ochre 10%
+876 Burnt ochre 50%
+902 Sepia 10%
+906 Sepia 50%
+560 Light cadmium red 571 Anthraquinoid pink 575 Carmine lake
+583 Violet pink
+599 Crimson auber ne
+630 Ul amarine violet
+640 Dark ul amarine
+660 Middle cobalt blue
+661 Light cobalt blue
+662 Genuine cobalt blue
+670 Permanent blue
+710 Phthalocyanine  een
+719 Dark phthalocyanine  een 720 Bright  een
+736 Brown olive 50% 739 Dark sap  een 746 Dark flesh 50% 808 French  ey
+821 Naples ochre
+850 Cornelian
+866 Burnt Sienna 50% 902 Sepia 10%
+906 Sepia 50%
+001 White
+004 Steel 
+009 Black         
+010 Yellow    
+059 Brown
+060 Vermilion     
+015 Olive yellow
+020 Golden yellow
+025 Green ochre
+030 Orange       
+034 Yellow ochre
+036 Raw Sienna
+037 Brown ochre
+039 Olive brown
+041 Apricot   
+044 Terraco a
+046 Cassel earth
+049 Raw umber
+052 Sa on
+055 Cinnamon   
+057 Ches ut  
+065 Russet       
+070 Scarlet
+077 Burnt ochre
+106 Dark plum
+112 Manganese violet
+120 Violet
+131 Periwinkle blue
+149 Night blue
+159 Prussian blue
+161 Light blue
+162 Phthalocyanine blue
+171 Turquoise blue
+181 Light malachite  een
+182 Cobalt  een
+185 Ice blue
+210 Emerald  een
+212 Chromium oxyde  een
+214 Beryl  een
+220 Grass  een
+225 Moss  een
+240 Lemon yellow
+242 Primerose     
+350 Purplish red
+470 Spring  een
+495 Slate  ey
+496 Ivory black
+508 Payne's  ey
+530 Gold cadmium yellow 
+542 Light flesh 10%
+245 Light olive
+249 Olive   
+548 Umber
+02 Silver  ey
+003 Light  ey
+004 Steel  ey
+008 Greyish black
+009 Black           
+011 Pale yellow
+017 Light reseda
+033 Golden ochre
+035 Ochre       
+036 Raw Sienna
+039 Olive brown
+042 Flesh           
+044 Terraco a       
+046 Cassel earth
+047 Bis e       
+050 Flame red
+052 Sa on     
+064 Medium russet 066 Raw russet
+068 Herculanum red
+069 Burnt Sienna
+070 Scarlet           
+080 Carmine     
+083 Ul amarine pink
+089 Dark carmine
+093 Violet  ey
+099 Auber ne     
+105 Plum         
+120 Violet   
+140 Ul amarine         
+145 Bluish  ey
+149 Night blue
+161 Light blue
+162 Phthalocyanine blue
+180 Malachite  een
+185 Ice blue
+212 Chromium oxyde  een 
+214 Beryl  een
+225 Moss  een
+229 Dark  een
+232 Middle moss  een 10% 
+234 Middle moss  een 30%
+240 Lemon yellow
+241 Light lemon yellow
+243 Light olive 20%
+245 Light olive 40%
+300 Fast orange
+350 Purplish red
+408 Dark sepia
+495 Slate  ey
+506 Payne's  ey 50%
+512 Light cadmium yellow imit. 
+530 Golden cadmium yellow imit.
+541 Light flesh 5%
+542 Light flesh 10%
+571 Anthraquinoid pink
+581 Pink white
+582 Por ait pink
+583 Violet pink
+585 Perylene brown
+620 Cobalt violet Imit.
+631 Light ul amarine violet
+661 Cobalt blue 5%
+662 Cobalt blue 10%
+664 Cobalt blue 30%
+711 Earth  een
+712 Verdi is     
+718 Middle phthalocyanine  een
+719 Dark phthalocyanine  een
+730 Chinese  een 
+732 Brown olive 10% 
+736 Brown olive 50% 
+741 Dark flesh 5%
+745 Dark flesh 40%
+746 Dark flesh 50%
+748 Dark flesh
+802 French  ey 10% 
+808 French  ey
+811 Bismuth white
+820 Golden bismuth yellow
+821 Naples ochre
+871 Azurite white 901 Chinese white
+002 Silver  ey 
+003 Light  ey 
+004 Steel  ey 
+008 Greyish black 
+009 Black
+011 Pale yellow 
+017 Light reseda 
+033 Golden ochre 
+035 Ochre
+036 Raw Sienna 
+039 Olive brown 
+042 Flesh
+044 Terraco a 046 Cassel earth 
+047 Bis e
+050 Flame red
+052 Sa on
+060 Vermilion
+064 Medium russet 066 Raw russet
+068 Herculanum red 069 Burnt Sienna 070 Scarlet
+080 Carmine
+083 Ul amarine pink
+089 Dark carmine
+093 Violet  ey
+099 Auber ne
+105 Plum
+120 Violet
+140 Ul amarine
+145 Bluish  ey
+149 Night blue
+161 Light blue
+162 Phthalocyanine blue
+180 Malachite  een
+185 Ice blue
+212 Chromium oxyde  een
+214 Beryl  een
+225 Moss  een
+229 Dark  een
+232 Middle moss  een 10% 
+234 Middle moss  een 30% 
+240 Lemon yellow
+241 Light lemon yellow
+243 Light olive 20%
+245 Light olive 40%
+300 Fast orange
+350 Purplish red
+408 Dark sepia
+495 Slate  ey
+506 Payne's  ey 50%
+512 Light cadmium yellow imit. 
+530 Golden cadmium yellow imit. 
+541 Light flesh 5%
+542 Light flesh 10%
+571 Anthraquinoid pink
+581 Pink white
+582 Por ait pink
+583 Violet pink
+585 Perylene brown
+620 Cobalt violet Imit.
+631 Light ul amarine violet
+661 Cobalt blue 5%
+662 Cobalt blue 10%
+664 Cobalt blue 30%
+711 Earth  een
+712 Verdi is
+718 Middle phthalocyanine  een 
+719 Dark phthalocyanine  een 
+730 Chinese  een
+732 Brown olive 10%
+736 Brown olive 50%
+741 Dark flesh 5%
+745 Dark flesh 40%
+746 Dark flesh 50%
+748 Dark flesh
+802 French  ey 10%
+808 French  ey
+811 Bismuth white
+820 Golden bismuth yellow
+821 Naples ochre
+871 Azurite white
+901 Chinese white
+033 Golden ochre 
+044 Terraco a
+046 Cassel earth
+506 Payne's  ey 50% 
+542 Light flesh 10% 
+581 Pink white
+741 Dark flesh 5% 
+802 French  ey 10% 
+808 French  ey
+821 Naples ochre
+002 Silver  ey 
+008 Greyish black 
+009 Black
+011 Pale yellow 047 Bis e
+066 Raw russet 408 Dark sepia 
+495 Slate  ey 
+811 Bismuth white 901 Chinese white
+001 White
+002 Silver  ey
+003 Light  ey
+004 Steel  ey
+005 Grey
+006 Mouse  ey
+007 Dark  ey
+008 Greyish black
+009 Black
+010 Yellow
+011 Pale yellow
+015 Olive yellow
+016 Khaki  een
+018 Olive  ey
+019 Olive black
+020 Golden yellow
+030 Orange
+031 Oran sh yellow
+033 Golden ochre 035 Ochre
+037 Brown ochre
+039 Olive brown
+040 Reddish orange
+045 Vandycke brown 047 Bis e
+049 Raw umber
+050 Flame red
+051 Salmon
+055 Cinnamon 057 Ches ut
+059 Brown
+060 Vermilion
+063 English red 065 Russet 067 Mahogany
+069 Burnt Sienna
+070 Scarlet
+071 Salmon pink
+075 Indian red
+080 Carmine
+081 Pink
+090 Purple
+099 Auber ne
+101 Light purple violet
+110 Lilac
+111 Mauve
+120 Violet
+130 Royal blue
+131 Periwinkle blue
+139 Indigo blue
+140 Ul amarine
+141 Sky blue
+149 Night blue
+150 Sapphire blue 
+155 Blue jeans
+159 Prussian blue 
+160 Cobalt blue 
+161 Light blue
+170 Azurite blue 
+171 Turquoise blue 
+180 Malachite  een 
+190 Greenish blue 
+191 Turquoise  een 
+195 Opaline  een 
+200 Bluish  een 
+201 Veronese  een 
+210 Emerald  een 
+211 Jade  een
+215 Greyish  een 
+220 Grass  een 
+225 Moss  een 
+229 Dark  een 
+230 Yellow  een 
+231 Lime  een 
+240 Lemon yellow 
+245 Light olive
+249 Olive
+260 Blue
+270 Raspberry red 
+280 Ruby red
+300 Fast orange 
+350 Purplish red 
+370 Gen an blue 
+401 Ash  ey
+402 Light beige 
+403 Beige
+405 Cocoa
+407 Sepia
+470 Spring  een 
+491 Cream
+493 Granite rose 
+495 Slate  ey
+496 Ivory black
+497 Bronze
+498 Silver
+499 Gold
+001 White 
+005 Grey
+008 Greyish black
+009 Black
+010 Yellow
+011 Pale yellow
+016 Khaki  een 019 Olive black
+030 Orange
+035 Ochre
+041 Apricot
+045 Vandycke brown
+050 Flame red
+051 Salmon
+059 Brown 
+063 English red 
+070 Scarlet
+080 Carmine
+081 Pink
+090 Purple
+091 Light purple
+100 Purple violet 
+110 Lilac
+120 Violet
+131 Periwinkle blue 
+140 Ul amarine
+159 Prussian blue
+160 Cobalt blue
+161 Light blue
+180 Malachite  een 
+191 Turquoise  een 
+210 Emerald  een
+220 Grass  een
+221 Light  een
+229 Dark  een
+230 Yellow  een
+240 Lemon yellow 
+260 Blue
+370 Gen an blue
+498 Silver
+499 Gold
+081 Pink
+170 Azurite blue
+497 Bronze
+498 Silver
+499 Gold
+710 Phtalocyanine  een
+001 White 
+003 Light  ey 
+005 Grey
+009 Black
+010 Yellow
+028 Toledo brown 
+030 Orange
+035 Ochre
+049 Raw umber
+050 Flame red
+051 Salmon
+059 Brown
+060 Vermilion
+065 Russet
+069 Burnt Sienna
+070 Scarlet
+080 Carmine
+081 Pink
+090 Purple
+110 Lilac
+120 Violet
+131 Periwinkle blue 
+140 Ul amarine
+159 Prussian blue
+160 Cobalt blue
+161 Light blue
+171 Turquoise blue
+180 Malachite  een
+210 Emerald  een
+220 Grass  een
+230 Yellow  een
+240 Lemon yellow
+245 Light olive
+249 Olive
+508 Paynes'  ey
+521 Sahara yellow
+560 Light cadmium red (hue) 
+589 Crimson alizarin (hue) 
+640 Dark ul amarine
+661 Light cobalt blue (hue)
+070 Scarlet metallic 
+081 Pink me alic
+120 Violet metallic 
+162 Phtalocyanine Blue
+497 Bronze
+498 Silver
+499 Gold
+710 Phtalocyanine  een 899 Dark gold
+401 Ash  ey
+001 White
+002 Silver  ey
+003 Light  ey
+005 Grey
+007 Dark  ey
+008 Greyish black
+009 Black
+010 Yellow
+011 Pale yellow
+020 Golden yellow 
+028 Toledo brown
+030 Orange
+031 Oran sh yellow
+033 Golden ochre
+035 Ochre
+036 Raw sienna
+039 Olive brown
+041 Apricot
+042 Flesh
+045 Vandycke brown
+049 Raw umber
+050 Flame red
+051 Salmon
+052 Sa on
+055 Cinnamon
+059 Brown
+060 Vermilion
+063 English red 
+065 Russet
+069 Burnt Sienna
+070 Scarlet
+071 Salmon pink
+080 Carmine
+081 Pink
+090 Purple
+099 Auber ne
+100 Purple violet
+110 Lilac
+111 Mauve
+120 Violet
+130 Royal blue
+131 Periwinkle blue
+139 Indigo blue
+140 Ul amarine
+141 Sky blue
+149 Night blue
+150 Sapphire blue
+159 Prussian blue
+160 Cobalt blue
+161 Light blue
+171 Turquoise blue 
+180 Malachite  een
+190 Greenish blue
+191 Turquoise  een
+201 Veronese  een
+210 Emerald  een
+211 Jade  een
+220 Grass  een
+225 Moss  een
+229 Dark  een
+230 Yellow  een
+231 Lime  een
+240 Lemon yellow 245 Light olive
+249 Olive
+250 Canary yellow
+260 Blue
+280 Ruby red 300 Fast orange 403 Beige
+407 Sepia
+409 Charcoal  ey
+497 Bronze
+498 Silver
+499 Gold
+508 Paynes'  ey
+521 Sahara yellow
+560 Light cadmium red (hue) 
+589 Crimson alizarin (hue) 
+661 Light cobalt blue (hue) 
+710 Phtalocyanine  een 
+720 Bright  een
+730 Chinese  
+212 Chromium oxyde  een
+001 White
+003 Light  ey 009 Black
+020 Golden yellow 030 Orange
+035 Ochre
+036 Raw Sienna
+042 Flesh 050 Flame red 060 Vermilion
+069 Burnt Sienna
+070 Scarlet
+080 Carmine lake
+081 Pink
+090 Magenta
+109 Brown madder lake 120 Violet
+149 Night blue
+159 Prussian blue
+170 Cyan
+171 Turquoise blue
+210 Emerald  een 
+220 Grass  een 
+240 Lemon yellow 
+470 Spring  een 
+640 Dark ul amarine 
+720 Bright  een
+497 Bronze
+998 Silver
+999 Gold
+090 Purple
+170 Azurite blue
+240 Lemon yellow
+003 Light  ey 
+010 Yellow 
+030 Orange 
+042 Flesh 
+060 Vermilion
+069 Burnt Sienna
+070 Scarlet
+080 Carmine 
+120 Violet
+140 Ul amarine 
+159 Prussian blue 
+220 Grass  een 
+230 Yellow  een
+090 Purple
+001 White
+009 Black
+090 Purple
+170 Azurite blue 240 Lemon yellow
+069 Burnt Sienna
+070 Scarlet
+080 Carmine 
+120 Violet
+140 Ul amarine 210 Emerald  een 
+720 Bright  een
+030 Orange
+090 Purple
+230 Yellow  een 240 Lemon yellow
+998 Silver
+999 Gold
+003 Light  ey
+009 Black
+010 Yellow
+030 Orange
+033 Golden ochre 035 Ochre
+042 Flesh
+050 Flame red
+051 Salmon
+059 Brown 065 Russet 070 Scarlet 081 Pink
+089 Dark carmine
+090 Purple
+110 Lilac
+120 Violet
+131 Periwinkle blue
+140 Ul amarine
+141 Sky blue
+159 Prussian blue
+160 Cobalt blue
+161 Light blue
+171 Turquoise blue 
+180 Malachite  een
+210 Emerald  een
+211 Jade  een
+220 Grass  een
+230 Yellow  een 
+240 Lemon yellow 
+245 Light olive
+249 Olive
+460 Peacock  een 
+504 Payne's  ey 30% 
+541 Light flesh 5% 
+902 Sepia 10%
+498 Silver
+499 Gold
+003 Light  ey
+009 Black
+010 Yellow
+030 Orange 
+035 Ochre 
+042 Flesh 
+059 Brown 
+070 Scarlet 
+081 Pink
+091 Light purple
+160 Cobalt blue
+161 Light blue
+180 Malachite  een
+210 Emerald  een
+211 Jade  een
