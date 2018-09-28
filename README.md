@@ -1,6 +1,6 @@
 # Caran-d-ache-colors
 Caran d'Ache colors\
-NEOCOLOR® I \
+NEOCOLOR I \
 \
 Python dictionary and Matlab structure.
 
