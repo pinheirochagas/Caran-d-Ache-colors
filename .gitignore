@@ -1,0 +1,9 @@
+.idea
+*.pyc
+*~*
+.decoding/somaWF/workflows
+.decoding/somaWF/jobs/
+.idea/workspace.xml
+.ipynb_checkpoints
+.DS_Store
+.Rapp.history
