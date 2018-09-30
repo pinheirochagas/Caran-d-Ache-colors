@@ -1,6 +1,4 @@
-# Caran-d-ache-colors
-Caran d'Ache colors\
-NEOCOLOR I \
+# Caran d'Ache colors - 2018\
 \
 Python dictionary (cdcol.pickle)\
 Matlab structure (cdcol.mat)\
