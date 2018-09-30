@@ -1,0 +1,3 @@
+load("cdcol.RData")
+cdcol
+plot(1,1,col=cdcol$carmine)
